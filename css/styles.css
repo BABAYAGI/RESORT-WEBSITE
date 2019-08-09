@@ -1,14 +1,14 @@
 h1 {
   color: yellow;
-  background-color: skyblue
+  background-color: blue;
 }
 li {
-  color: green;
-  background-color:blue
+  color: grey;
+  background-color:blue;
 }
 p {
   color: magenta;
-  background-color: chocolate
+  background-color: chocolate;
 }
 body {
   background-color: aqua;
